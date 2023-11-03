@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![tsutomu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsutomu-nagano&count_private=true&show_icons=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsutomu-nagano&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsutomu-nagano&layout=default&theme=dracula" />
+</a>
 
-![tsutomu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tsutomu-nagano&layout=default&theme=dracula)
